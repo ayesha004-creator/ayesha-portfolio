@@ -7,7 +7,7 @@ export const site = {
   linkedin: "https://www.linkedin.com/in/hafiza-ayesha-karamat-bb1642263",
   github: "https://github.com/ayesha004-creator",
   location: "Lahore, Punjab, Pakistan",
-  cv: "/Ayesha-Karamat-CV.pdf",
+  cv: "/Ayesha_Karamat_CV.pdf",
   profileImage: "/ayesha-profile.png",
 };
 
